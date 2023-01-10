@@ -1,0 +1,17 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'Kgf.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 512
+    compatible_brands: mp42iso2avc1mp41
+    creation_time   : 2023-01-10T18:09:09.000000Z
+    encoder         : HandBrake 1.5.1 2022011000
+  Duration: 00:02:16.08, start: 0.000000, bitrate: 17232 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 16911 kb/s, 24 fps, 24 tbr, 90k tbn, 180k tbc (default)
+    Metadata:
+      creation_time   : 2023-01-10T18:09:09.000000Z
+      handler_name    : VideoHandler
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 316 kb/s (default)
+    Metadata:
+      creation_time   : 2023-01-10T18:09:09.000000Z
+      handler_name    : Stereo
+At least one output file must be specified
